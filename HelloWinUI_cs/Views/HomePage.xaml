@@ -8,6 +8,6 @@
     mc:Ignorable="d">
 
     <Grid>
-        <TextBlock Text="Home"/>
+        <TextBlock Text="Hello, World!"/>
     </Grid>
 </Page>
